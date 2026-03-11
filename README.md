@@ -109,8 +109,8 @@ Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ## ✒️ Autor
 
-**Bernardo Adolfo Gómez Montoya**  
-📧 [badolfogm@gmail.com](mailto:badolfogm@gmail.com)
+**Sergio Enrique Tarqui Huerta**  
+📧 [sergio27enrique1996@gmail.com](mailto:badolsergio27enrique1996@gmail.com)
 
 ---
 
